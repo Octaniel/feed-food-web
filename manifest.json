@@ -1,6 +1,6 @@
 {
-    "name": "FeedfooD",
-    "short_name": "FeedfooD",
+    "name": "socialfood",
+    "short_name": "socialfood",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
