@@ -80513,7 +80513,7 @@ K.a7M.prototype={
 $0:function(){this.a.l7()},
 $S:0}
 K.a7R.prototype={
-$0:function(){Y.Jz($.a4(),"/addvideoweb",t.z)},
+$0:function(){Y.Jz($.a4(),"/home",t.z)},
 $S:0}
 K.a7S.prototype={
 $0:function(){},
@@ -89491,7 +89491,7 @@ $.asm=null
 $.aCa=P.M([C.qz,0,C.hT,0,C.bn,0,C.cL,1],H.ac("qa*"),t.R)
 $.uO=null
 $.aCn=!0
-$.oD="http://ec2-15-228-50-178.sa-east-1.compute.amazonaws.com:8080/"
+$.oD="https://ec2-15-228-50-178.sa-east-1.compute.amazonaws.com:443/"
 $.aSX=function(){var s=t.X
 return P.M(["ex","Exemple","pripag","First Page"],s,s)}()
 $.aUu=function(){var s=t.X
